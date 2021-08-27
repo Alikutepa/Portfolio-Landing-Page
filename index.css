@@ -71,10 +71,39 @@
   padding-top: 200px;
 }
 .container3{
-  background: grey;
+  background: #171717;
   height: 100vh;
   width: 100%;
 }
-.pr1 p{
-  color:;
+.text2 p{
+  text-align: center;
+  color: #fff;
+  font-size: 25px;
+}
+.projects{
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 20px;
+ 
+}
+.pr1 {
+  background-color: white;
+  border-style: none;
+  padding: 10px;
+  margin: 20px;
+}
+.pr2{
+    background-color: white;
+    border-style: none;
+    padding: 10px;
+    margin: 20px;
+   
+}.pr3{
+    background-color: white;
+    border-style: none;
+    padding: 10px;
+    margin: 20px;
+   
 }
