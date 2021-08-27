@@ -9,11 +9,11 @@
 * Type git clone https://github.com/Alikutepa/Portfolio-Landing-Page
 * Press Enter to create your local clone
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{None }
 ## Technologies Used
 {*HTML *CSS}
 ## Support and contact details
-{If you run into any issue or have ideas on how to make thi website better, kindly contact me through this email: jalikutepa@gmail.com}
+{If you run into any issue or have ideas on how to make this website better, kindly contact me through this email: jalikutepa@gmail.com}
 ### License
 *{This project is under the MIT Licence}*
 Copyright (c) {2021} **{JULIANA ALIKUTEPA}**
