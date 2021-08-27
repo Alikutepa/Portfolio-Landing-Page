@@ -36,3 +36,21 @@
 }
 .navbar ul li :hover::after{
   width: 100%;
+}
+.content1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.image img{
+  opacity: 0.3;
+}
+.text p em{
+  color: #fff;
+  font-weight: 900;
+  font-size: 60px;
+}
+.text p{
+  color: #fff;
+  font-size: 40px;
+}
