@@ -44,6 +44,7 @@
 }
 .image img{
   opacity: 0.3;
+  z-index: 1;
 }
 .text p em{
   color: #fff;
@@ -53,4 +54,27 @@
 .text p{
   color: #fff;
   font-size: 40px;
+}
+.container2{
+  background-color: #000000;
+  height: 100vh;
+  width: 100%;
+  
+}
+.container2 img{
+  float: left;
+  margin: 50px;
+}
+.container2 p{
+  font-size: 20px;
+  color: #fff;
+  padding-top: 200px;
+}
+.container3{
+  background: grey;
+  height: 100vh;
+  width: 100%;
+}
+.pr1 p{
+  color:;
 }
