@@ -116,6 +116,36 @@
     
     border-radius: 5px;
 }
+.container3 .skills h3{
+  color: #fff;
+  font-size: 25px;
+  text-align: center;
+}
+.skillcont{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 20px;
+  margin-top: 50px;
+}
+.sk1{
+  color: #fff;
+  border-style: dotted;
+  padding: 15px;
+  margin: 20px;
+}
+.sk2{
+  color: #fff;
+  border-style: dotted;
+  padding: 15px;
+  margin: 20px;
+}
+.sk3{
+  color: #fff;
+  border-style: dotted;
+  padding: 15px;
+  margin: 20px;
+}
 .container4{
   background-color: #000000;
   height: 100vh;
