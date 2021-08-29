@@ -8,6 +8,10 @@
 * Change the current working directory to where you'd want it cloned
 * Type git clone https://github.com/Alikutepa/Portfolio-Landing-Page
 * Press Enter to create your local clone
+### Design
+Go to [Design](https://www.figma.com/file/94ONMSgNimmTnEB2nkHPq6/Portfolio)
+### live link
+Go to [live]()
 ## Known Bugs
 {None }
 ## Technologies Used
@@ -15,5 +19,5 @@
 ## Support and contact details
 {If you run into any issue or have ideas on how to make this website better, kindly contact me through this email: jalikutepa@gmail.com}
 ### License
-*{This project is under the MIT Licence}*
+This project is under the [MIT](Licence)
 Copyright (c) {2021} **{JULIANA ALIKUTEPA}**
