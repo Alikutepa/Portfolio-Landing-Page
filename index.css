@@ -60,9 +60,15 @@
   width: 100%;
   
 }
+.container2 h3{
+  color: #fff;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 25px;
+}
 .container2 img{
   float: left;
-  margin: 50px;
+  margin: 35px;
 }
 .container2 p{
   font-size: 20px;
@@ -77,36 +83,37 @@
 .container3 h3{
   color: #fff;
   font-size: 25px;
-  text-align: center;
+  padding: 10px;
 }
+
 .projects{
   margin-top: 100px;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   font-size: 20px;
 }
 .pr1 {
-  background-color: white;
+  background-image: linear-gradient(to right, grey , white);
   border-style: none;
   padding: 15px;
   margin: 20px;
-  height: 150px;
+  
   border-radius: 5px;
 }
 .pr2{
-    background-color: white;
+    background-image: linear-gradient(to right, #A2A2A1FF , #F1F4FFFF);
     border-style: none;
     padding: 15px;
     margin: 20px;
-    height: 150px;
+    
     border-radius: 5px;
 }.pr3{
-    background-color: white;
+    background-image: linear-gradient(to right,  #6E6E6DFF , #A2A2A1FF);
     border-style: none;
     padding: 15px;
     margin: 20px;
-    height: 150px;
+    
     border-radius: 5px;
 }
 .container4{
