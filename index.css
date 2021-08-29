@@ -210,3 +210,121 @@ button{
 footer img{
   padding: 20px;
 }
+
+@media screen and (max-width: 600px) {
+  .container1 {
+    width: 90%;
+  }
+  .content1 p{
+    font-size: 45px;
+  }
+  .container2 p{
+    font-size: 15px;
+    padding-top:20px;
+  }
+  .container2 img{
+    height: 300px;
+    width: 450px;
+    margin: 5px;
+    float: none;
+  }
+  .container3 h3{
+    font-size: 15px;
+  }
+  .projects{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size: 15px;
+    width: 500px;
+  }
+  .pr1 {
+    background-image: linear-gradient(to right, grey , white);
+    border-style: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.pr2{
+    background-image: linear-gradient(to right, grey , white);
+    border-style: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.pr3 {
+  background-image: linear-gradient(to right, grey , white);
+  border-style: none;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.container3 h3{
+  text-align: center;
+}
+  .container3 .skills h3 {
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+}
+  .skillcont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size: 10px;
+    margin-top:2px;
+    width: 500px;
+  }
+  .sk1 {
+    color: #A2A2A1FF;
+    border-style: dotted;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+}
+.sk2 {
+  color: #A2A2A1FF;
+  border-style: dotted;
+  padding: 10px;
+  margin: 10px;
+  font-size: 15px;
+}
+.sk3 {
+  color: #A2A2A1FF;
+  border-style: dotted;
+  padding: 5px;
+  margin: 5px;
+  font-size: 15px;
+}
+.container4 h3 {
+  font-size: 15px;
+  padding: 5px;
+}
+.container4 img{
+  height:250px ;
+  float: none;
+  margin: 5px;
+}
+.contact-box {
+  margin-left: 0px; 
+  margin-top: 0px; 
+}
+.form-cont {
+  width: 400px;
+  height: 50px;
+  margin-top: 20px;
+  font-size: 15px;
+}
+.textArea {
+  height: 120px;
+  font-size: 15px;
+}
+button {
+ 
+  padding: 5px;
+  border: none;
+  height: 30px;
+  font-size: 10px;
+}
+}
