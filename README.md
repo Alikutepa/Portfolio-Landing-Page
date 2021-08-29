@@ -1,6 +1,6 @@
-# {Alikutepa's Portfolio}
-#### {This website compiles my skills, qualifications, education, and experience, while giving more insight about my personality.}, {August 27 2021}
-#### By **{JULIANA ALIKUTEPA}**
+# Alikutepa's Portfolio
+#### This website compiles my skills, qualifications, education, and experience, while giving more insight about my personality., {August 27 2021}
+#### By **JULIANA ALIKUTEPA**
 ## Description
 This website provides professional information about me and presents a showcase of my previous projects. It supplies site visitors with information about me.
 ## Setup/Installation Requirements
@@ -13,7 +13,7 @@ Go to [Design](https://www.figma.com/file/94ONMSgNimmTnEB2nkHPq6/Portfolio)
 ### live link
 Go to [live]()
 ## Known Bugs
-None }
+None 
 ## Technologies Used
 *HTML *CSS
 ## Support and contact details
